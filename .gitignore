@@ -30,6 +30,7 @@ third_party/ffmpeg-src/
 *.suo
 *.vcxproj.user
 *.vcxproj.filters
+.superpowers/
 
 # C++ / MSVC artifacts
 *.obj
